@@ -144,7 +144,17 @@ town_names(prefixes) {
         text("Low", 1),
         text("Framing", 1),
         text("Ash", 1),
-        text("Shrews", 1)
+        text("Shrews", 1),
+		text("Ames", 1),
+		text("Ando", 1),
+		text("Attle", 1),
+		text("Belcher", 1),
+		text("Belling", 1),
+		text("Bel", 1),
+		text("Bernards", 1),
+		text("Black", 1),
+		text("Bland", 1),
+		text("Box", 1)
     }
 }
 
