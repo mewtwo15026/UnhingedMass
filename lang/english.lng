@@ -1,5 +1,5 @@
 ##grflangid 0x00
 
-STR_GRF_NAME			:Unhinged Massachusetts Town Names
-STR_GRF_DESCRIPTION		:Unhinged town names based on real ones found in Massachusetts. {}Brought to you by FlamingSpork and Tris.
-STR_SET_NAME			:Massachusetts (Unhinged)
+STR_GRF_NAME			:Unhinged New England Town Names
+STR_GRF_DESCRIPTION		:Unhinged town names based on real ones found in New England. {}Forked from Unhinged Massachusetts Town Names by FlamingSpork and Tris; expanded by Raichunite.
+STR_SET_NAME			:New England (Unhinged)
